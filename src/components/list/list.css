@@ -1,0 +1,13 @@
+.listitem button {
+    border: 2px solid #282c34;
+    border-radius: 4px;
+    background: transparent;
+    padding: 6px 10px;
+    display: block;
+    margin: 10px auto 0;
+}
+.listitem {
+    padding: 10px 20px;
+    border: 2px solid #282c34;
+    margin: 10px;
+}

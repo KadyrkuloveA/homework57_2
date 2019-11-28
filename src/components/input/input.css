@@ -1,0 +1,22 @@
+.textinput {
+    border: 2px solid #282c34;
+    border-radius: 4px;
+    width: 375px;
+    height: 25px;
+    margin: 0 10px;
+    padding: 0 5px;
+}
+.costinput {
+    border: 2px solid #282c34;
+    border-radius: 4px;
+    height: 25px;
+    width: 100px;
+    margin: 0 10px;
+    padding: 0 5px;
+}
+.btn {
+    border: 2px solid #282c34;
+    border-radius: 4px;
+    background: transparent;
+    padding: 6px 10px;
+}
